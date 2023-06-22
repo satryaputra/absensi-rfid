@@ -1,0 +1,1 @@
+<footer class="text-center">Kelompok 5 - 12 TKJ 2</footer>
